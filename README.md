@@ -10,10 +10,10 @@ oioioioioioioioioioi
 2
 
 -👋 Hi, I’m @lucas29183
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... a
+- 🌱 I’m currently learning ... e
+- 💞️ I’m looking to collaborate on ... i
+- 📫 How to reach me ... o
 
 <!---
 lucas29183/lucas29183 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
